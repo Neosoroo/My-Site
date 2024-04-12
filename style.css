@@ -1,0 +1,31 @@
+header {
+    background-color: white;
+}
+
+.cabeçalho.imagem{
+    width: 1%;
+}
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.cabecalho {
+    background-color: white;
+    color: white;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 1% 0;
+}
+
+.logo.jpg
+    width: 20%;
+}
+
+.clogo.logo.jpg{
+    display: inline-block;
+    margin: 0 1%;
+    font-size: 1%;
+}
+
