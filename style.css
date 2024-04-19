@@ -19,8 +19,23 @@ header {
     padding: 1% 0;
 }
 
-.logo.jpg
-    width: 20%;
+.logo{
+    width: 15%;
+}
+.iphone15{
+    width: 12%;
+}
+.iphone14{
+    width: 12%;
+}
+.iphone13{
+    width: 12%;
+}
+.issoiphone{
+    width: 12%;
+}
+.i15foto{
+    width: 80%;
 }
 
 .clogo.logo.jpg{
