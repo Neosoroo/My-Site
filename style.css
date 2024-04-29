@@ -13,29 +13,29 @@ header {
 .cabecalho {
     background-color: white;
     color: white;
-    display: flex;
-    justify-content: space-around;
+    display:flex;
+    justify-content: center;
     align-items: center;
     padding: 1% 0;
 }
 
 .logo{
-    width: 15%;
+    width: 50%;
 }
 .iphone15{
-    width: 12%;
+    width: 50%;
 }
 .iphone14{
-    width: 12%;
+    width: 50%;
 }
 .iphone13{
-    width: 12%;
+    width: 50%;
 }
 .issoiphone{
-    width: 12%;
+    width: 50%;
 }
 .i15foto{
-    width: 80%;
+    width: 110%;
 }
 
 .clogo.logo.jpg{
@@ -43,4 +43,16 @@ header {
     margin: 0 1%;
     font-size: 1%;
 }
-
+.meio{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.logo2{
+    width: 100%;
+}
+.i15elogo{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
